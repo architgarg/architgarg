@@ -6,5 +6,5 @@ Full-Stack Engineer at [Harmonize](https://harmonize.ai)<br>
 
 - ⚙️ I use daily: `React`, `Typescript`, `Tailwind`, `Next.js`, `Node.js`, `PostgreSQL`, `Figma`, `GCP`, `Chrome Extensions`
 - 🗺️ I am based in India, & I work in US timezones.
-- 🌍 Portfolio - https://architgarg.com/
+- 🌍 Portfolio - [https://architgarg.com/](https://architgarg.com?source=github)
 - 💬 `ping` me about **clean code**, **frontend development**, **designs**, **productivity**, & **new product ideas**.

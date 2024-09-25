@@ -1,11 +1,10 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a designer by night ☾
+#### I write code in the day ☼ and ship at night ☾
 
-Full-Stack Developer at [Harmonize](https://harmonize.ai)<br>
+Full-Stack Engineer at [Harmonize](https://harmonize.ai)<br>
 
-
-- ⚙️ I use daily: `react`, `typescript`, `next`, `redux`, `node`, `mongo`, `figma`, `aws`, `chrome extensions`
-- 🗺️ I am based in India, but I work in US timezones.
+- ⚙️ I use daily: `React`, `Typescript`, `Tailwind`, `Next.js`, `Node.js`, `PostgreSQL`, `Figma`, `GCP`, `Chrome Extensions`
+- 🗺️ I am based in India, & I work in US timezones.
 - 🌍 Portfolio - https://architgarg.com/
-- 💬 `ping` me about **design**, **frontend development**, **product management**, **startups**
+- 💬 `ping` me about **clean code**, **frontend development**, **designs**, **productivity**, & **new product ideas**.
